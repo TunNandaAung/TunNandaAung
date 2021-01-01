@@ -1,1 +1,7 @@
-<p align="center"><img src="https://github.com/tunnandaaung/tunnandaaung/blob/master/please-wait.gif" width="100%" height="300" alt="gif"></p>
+<div align="center">
+	<br>
+	<a href="https://github.com/TunNandaAung/TunNandaAung/blob/master/header.svg">
+		<img src="header.svg" width="800" height="400">
+	</a>
+	<br>
+</div>
